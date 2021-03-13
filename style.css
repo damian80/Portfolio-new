@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: monospace;
+    font-weight: 100;
+    letter-spacing: 20px;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline 1px plum;
+}
+
+nav {
+    max-width: 1280px;
+    text-align: center;
+
+
+}
+
+li {
+    display: inline-block;
+    text-transform: uppercase;
+    margin: 10px;
+
+    font-size: 20px;
+
+
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: monospace;
+    font-weight: 100;
+    letter-spacing: 1px;
+
+
+
+
+}
+
+a:hover {
+    text-decoration: underline 1px plum wavy;
+    font-weight: bold;
+}
